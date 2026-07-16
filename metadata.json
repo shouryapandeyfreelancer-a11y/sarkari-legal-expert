@@ -1,0 +1,8 @@
+{
+  "name": "GovLegal Assistant",
+  "description": "An AI-powered Government Legal Assistant for understanding laws, analyzing legal documents, creating drafts, and getting answers to legal queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
